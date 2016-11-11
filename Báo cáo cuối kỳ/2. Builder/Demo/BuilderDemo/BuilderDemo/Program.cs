@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BuilderDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //create a constructor object to start building
+            Kid aKid = new Kid();
+            aKid.Name = "Elizabeth";
+
+            //Elizabeth use Monkey mold to make a monkey
+            Console.WriteLine("{0} start making a monkey", aKid.Name);
+            AnimalBuilder builderA = new MonkeyBuilder();
+            aKid.MakeAnimal(builderA);
+            builderA.aAnimal.ShowMe();
+
+            //Elizabeth use Kitten mold to make a kitten
+            Console.WriteLine("{0} start making a kitten", aKid.Name);
+            AnimalBuilder builderB = new KittenBuilder();
+            aKid.MakeAnimal(builderB);
+            builderB.aAnimal.ShowMe();
+
+            Console.Read();
+        }
+    }
+}
