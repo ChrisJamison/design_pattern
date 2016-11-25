@@ -4,3 +4,6 @@ D:\Workspaces\Visual Studio 2013\DesignPattern\DecoratorDemo\bin\Debug\Decorator
 D:\Workspaces\Visual Studio 2013\DesignPattern\DecoratorDemo\obj\Debug\DecoratorDemo.csprojResolveAssemblyReference.cache
 D:\Workspaces\Visual Studio 2013\DesignPattern\DecoratorDemo\obj\Debug\DecoratorDemo.exe
 D:\Workspaces\Visual Studio 2013\DesignPattern\DecoratorDemo\obj\Debug\DecoratorDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Sermina\Demos\Decorator\DecoratorDemo\bin\Debug\DecoratorDemo.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Sermina\Demos\Decorator\DecoratorDemo\obj\Debug\DecoratorDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Sermina\Demos\Decorator\DecoratorDemo\obj\Debug\DecoratorDemo.pdb
