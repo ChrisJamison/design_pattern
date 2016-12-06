@@ -1,0 +1,1 @@
+E:\_____Courses_____\___Congratute Course___\Design Pattern\design_pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\bin\Debug\Singleton.exe.config
