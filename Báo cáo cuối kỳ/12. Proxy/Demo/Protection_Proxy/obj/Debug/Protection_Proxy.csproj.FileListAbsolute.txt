@@ -1,0 +1,6 @@
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Protection_Proxy\bin\Debug\Protection_Proxy.exe.config
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Protection_Proxy\bin\Debug\Protection_Proxy.exe
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Protection_Proxy\bin\Debug\Protection_Proxy.pdb
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Protection_Proxy\obj\Debug\Protection_Proxy.csprojResolveAssemblyReference.cache
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Protection_Proxy\obj\Debug\Protection_Proxy.exe
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Protection_Proxy\obj\Debug\Protection_Proxy.pdb
