@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\12. Proxy\Demo\Demo_1\bin\Debug\Demo_1.exe.config
+=======
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_1\bin\Debug\Demo_1.exe.config
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_1\bin\Debug\Demo_1.exe
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_1\bin\Debug\Demo_1.pdb
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_1\obj\Debug\Demo_1.exe
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_1\obj\Debug\Demo_1.pdb
+>>>>>>> 8afdfe41ee4f38a1364d6020fdb2b370e955ce97

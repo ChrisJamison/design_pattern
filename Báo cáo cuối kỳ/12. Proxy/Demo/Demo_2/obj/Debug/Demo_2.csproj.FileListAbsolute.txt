@@ -1,0 +1,6 @@
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_2\bin\Debug\Demo_2.exe.config
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_2\bin\Debug\Demo_2.exe
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_2\bin\Debug\Demo_2.pdb
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_2\obj\Debug\Demo_2.csprojResolveAssemblyReference.cache
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_2\obj\Debug\Demo_2.exe
+C:\Users\PhamNgoc\documents\visual studio 2012\Projects\ConsoleApplication1\Demo_2\obj\Debug\Demo_2.pdb
