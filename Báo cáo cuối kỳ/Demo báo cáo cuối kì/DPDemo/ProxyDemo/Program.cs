@@ -11,7 +11,7 @@ namespace Protection_Proxy
         static void Main(string[] args)
         {
             ThongTinProxy B = new ThongTinProxy(true);
-            Console.WriteLine("Name: " + B.getName());
+            Console.WriteLine("Admin has Logged into system, Name: " + B.getName());
 
             Console.ReadLine();
         }
