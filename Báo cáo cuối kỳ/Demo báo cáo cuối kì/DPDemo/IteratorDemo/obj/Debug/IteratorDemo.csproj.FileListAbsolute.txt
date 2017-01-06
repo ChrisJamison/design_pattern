@@ -10,3 +10,9 @@ E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\bin\Debug\IteratorDemo.pdb
 E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\obj\Debug\IteratorDemo.csprojResolveAssemblyReference.cache
 E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\obj\Debug\IteratorDemo.exe
 E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\obj\Debug\IteratorDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\IteratorDemo\bin\Debug\IteratorDemo.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\IteratorDemo\bin\Debug\IteratorDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\IteratorDemo\bin\Debug\IteratorDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\IteratorDemo\obj\Debug\IteratorDemo.csprojResolveAssemblyReference.cache
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\IteratorDemo\obj\Debug\IteratorDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\IteratorDemo\obj\Debug\IteratorDemo.pdb
