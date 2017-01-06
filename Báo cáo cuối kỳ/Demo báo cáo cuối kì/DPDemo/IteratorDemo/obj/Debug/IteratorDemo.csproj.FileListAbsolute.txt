@@ -1,0 +1,12 @@
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\IteratorDemo\bin\Debug\IteratorDemo.exe.config
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\IteratorDemo\bin\Debug\IteratorDemo.exe
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\IteratorDemo\bin\Debug\IteratorDemo.pdb
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\IteratorDemo\obj\Debug\IteratorDemo.csprojResolveAssemblyReference.cache
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\IteratorDemo\obj\Debug\IteratorDemo.exe
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\IteratorDemo\obj\Debug\IteratorDemo.pdb
+E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\bin\Debug\IteratorDemo.exe.config
+E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\bin\Debug\IteratorDemo.exe
+E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\bin\Debug\IteratorDemo.pdb
+E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\obj\Debug\IteratorDemo.csprojResolveAssemblyReference.cache
+E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\obj\Debug\IteratorDemo.exe
+E:\Workspace\Visual Studio 2015\PDemo\IteratorDemo\obj\Debug\IteratorDemo.pdb

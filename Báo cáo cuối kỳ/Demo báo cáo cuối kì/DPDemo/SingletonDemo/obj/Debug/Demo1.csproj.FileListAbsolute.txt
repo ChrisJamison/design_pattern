@@ -1,0 +1,6 @@
+E:\Workspace\Visual Studio 2015\SingletonPattern\Demo1\bin\Debug\Demo1.exe.config
+E:\Workspace\Visual Studio 2015\SingletonPattern\Demo1\bin\Debug\Demo1.exe
+E:\Workspace\Visual Studio 2015\SingletonPattern\Demo1\bin\Debug\Demo1.pdb
+E:\Workspace\Visual Studio 2015\SingletonPattern\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+E:\Workspace\Visual Studio 2015\SingletonPattern\Demo1\obj\Debug\Demo1.exe
+E:\Workspace\Visual Studio 2015\SingletonPattern\Demo1\obj\Debug\Demo1.pdb

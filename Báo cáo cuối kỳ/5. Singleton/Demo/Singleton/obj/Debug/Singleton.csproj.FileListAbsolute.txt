@@ -1,1 +1,7 @@
 E:\_____Courses_____\___Congratute Course___\Design Pattern\design_pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\bin\Debug\Singleton.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\bin\Debug\Singleton.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\bin\Debug\Singleton.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\bin\Debug\Singleton.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\obj\Debug\Singleton.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\5. Singleton\Demo\Singleton\obj\Debug\Singleton.pdb

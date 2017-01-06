@@ -1,0 +1,6 @@
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\SingletonDemo\bin\Debug\Demo1.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\SingletonDemo\obj\Debug\Demo1.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\SingletonDemo\obj\Debug\Demo1.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\SingletonDemo\bin\Debug\Demo1.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\SingletonDemo\bin\Debug\Demo1.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\SingletonDemo\obj\Debug\SingletonDemo.csprojResolveAssemblyReference.cache
