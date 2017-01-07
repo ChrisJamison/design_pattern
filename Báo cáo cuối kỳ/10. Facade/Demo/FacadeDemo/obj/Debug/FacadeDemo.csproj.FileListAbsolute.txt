@@ -1,0 +1,27 @@
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\FacadeDemo\bin\Debug\FacadeDemo.exe.config
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\FacadeDemo\bin\Debug\FacadeDemo.exe
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\FacadeDemo\bin\Debug\FacadeDemo.pdb
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
+E:\Workspace\Visual Studio 2015\IteratorDPDemo\FacadeDemo\obj\Debug\FacadeDemo.csprojResolveAssemblyReference.cache
+E:\Workspace\Visual Studio 2015\PDemo\FacadeDemo\bin\Debug\FacadeDemo.exe.config
+E:\Workspace\Visual Studio 2015\PDemo\FacadeDemo\bin\Debug\FacadeDemo.exe
+E:\Workspace\Visual Studio 2015\PDemo\FacadeDemo\bin\Debug\FacadeDemo.pdb
+E:\Workspace\Visual Studio 2015\PDemo\FacadeDemo\obj\Debug\FacadeDemo.csprojResolveAssemblyReference.cache
+E:\Workspace\Visual Studio 2015\PDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+E:\Workspace\Visual Studio 2015\PDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\FacadeDemo\bin\Debug\FacadeDemo.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Demo\DPDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\FacadeDemo\bin\Debug\FacadeDemo.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\FacadeDemo\bin\Debug\FacadeDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\FacadeDemo\bin\Debug\FacadeDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\FacadeDemo\obj\Debug\FacadeDemo.csprojResolveAssemblyReference.cache
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\FacadeDemo\obj\Debug\FacadeDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\Demo báo cáo cuối kì\DPDemo\FacadeDemo\obj\Debug\FacadeDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\10. Facade\Demo\Demo\FacadeDemo\bin\Debug\FacadeDemo.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\10. Facade\Demo\Demo\FacadeDemo\obj\Debug\FacadeDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\10. Facade\Demo\Demo\FacadeDemo\obj\Debug\FacadeDemo.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\10. Facade\Demo\FacadeDemo\bin\Debug\FacadeDemo.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\10. Facade\Demo\FacadeDemo\obj\Debug\FacadeDemo.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\10. Facade\Demo\FacadeDemo\obj\Debug\FacadeDemo.pdb
