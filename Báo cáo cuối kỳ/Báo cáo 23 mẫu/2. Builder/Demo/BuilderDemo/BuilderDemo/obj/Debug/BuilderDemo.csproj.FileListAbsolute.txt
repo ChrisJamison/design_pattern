@@ -1,0 +1,6 @@
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\2. Builder\Demo\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.exe.config
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\2. Builder\Demo\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\2. Builder\Demo\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.pdb
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\2. Builder\Demo\BuilderDemo\BuilderDemo\obj\Debug\BuilderDemo.csprojResolveAssemblyReference.cache
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\2. Builder\Demo\BuilderDemo\BuilderDemo\obj\Debug\BuilderDemo.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\2. Builder\Demo\BuilderDemo\BuilderDemo\obj\Debug\BuilderDemo.pdb

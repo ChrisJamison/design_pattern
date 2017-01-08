@@ -1,0 +1,6 @@
+C:\Users\Tuan Van\Desktop\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Tuan Van\Desktop\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\Tuan Van\Desktop\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Tuan Van\Desktop\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Tuan Van\Desktop\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Tuan Van\Desktop\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb

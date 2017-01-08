@@ -1,0 +1,11 @@
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\bin\Debug\Prototype.exe.config
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\bin\Debug\Prototype.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\bin\Debug\Prototype.pdb
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\obj\Debug\Prototype.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\4. Prototype\Demo\Prototype\obj\Debug\Prototype.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\4. Prototype\Demo\Prototype\bin\Debug\Prototype.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\4. Prototype\Demo\Prototype\obj\Debug\Prototype.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\4. Prototype\Demo\Prototype\obj\Debug\Prototype.pdb

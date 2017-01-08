@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner"
+  dslVersion="1.0.0.0"
+  Id="f72bd4c6-7455-456c-b48c-4adeef3406c9"
+  name="DecoratorModelingProject" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="27dbfb5a-e67f-4f95-bba0-947542245204">
+      <profileInstance
+        Id="73b413f2-8af5-46ae-afe5-e277dae16fc9"
+        name="CSharpProfile" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="91723e51-7298-4b86-831c-4c80f99d6ce3"
+        LastKnownName="DecoratorDemo"
+        LastKnownLocation="Package_0359.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="9deb030c-e32b-40aa-9d76-2fa688a95f2c"
+        LastKnownName="System"
+        LastKnownLocation="Package1_0359.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <interaction
+        Id="397668e0-351c-4d98-ab54-8f433ddeae30"
+        name="Sequence1"
+        collapseFragmentsFlag="false"
+        isActiveClass="false"
+        isAbstract="false"
+        isLeaf="false"
+        isReentrant="false">
+        <ownedAttributesInternal>
+          <property
+            Id="9bdc7cd8-db40-4250-ba16-776d25bd98c2"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <classMoniker
+                Id="4f5fa125-4806-42d2-bc2a-2ac334f29ce8"
+                LastKnownName="ChineeseFood"
+                LastKnownLocation="Package_0359.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="fcfd3082-f247-4272-baab-f04be72454dc"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <classMoniker
+                Id="b08c9c66-d9f5-422e-90de-d2024a3e535a"
+                LastKnownName="FoodDecorator"
+                LastKnownLocation="Package_0359.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="a7e177cd-96fe-4be8-83c5-acc98df2893a"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <classMoniker
+                Id="017478e6-d748-4632-b6b9-ecb5d9f336b0"
+                LastKnownName="NonVegFood"
+                LastKnownLocation="Package_0359.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="f2a65fc2-f782-4bce-9b43-d4ca41ed30b0"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <interfaceMoniker
+                Id="44c5b183-401c-42fb-9425-36c9ed5dc114"
+                LastKnownName="IFood"
+                LastKnownLocation="Package_0359.uml" />
+            </type_NamedElement>
+          </property>
+          <property
+            Id="e50095b2-edb1-4c2e-bae9-e419b8695914"
+            isLeaf="false"
+            isStatic="false"
+            isReadOnly="false"
+            isDerived="false"
+            isDerivedUnion="false"
+            aggregation="None"
+            isComposite="false">
+            <type_NamedElement>
+              <classMoniker
+                Id="cb287353-6e2b-4d61-88cc-8700b6eec51f"
+                LastKnownName="VegFood"
+                LastKnownLocation="Package_0359.uml" />
+            </type_NamedElement>
+          </property>
+        </ownedAttributesInternal>
+      </interaction>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

@@ -1,0 +1,12 @@
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\DoFactory.HeadFirst.Strategy\bin\Debug\DoFactory.HeadFirst.Strategy.exe.config
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\DoFactory.HeadFirst.Strategy\bin\Debug\DoFactory.HeadFirst.Strategy.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\DoFactory.HeadFirst.Strategy\bin\Debug\DoFactory.HeadFirst.Strategy.pdb
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\DoFactory.HeadFirst.Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\DoFactory.HeadFirst.Strategy\obj\Debug\DoFactory.HeadFirst.Strategy.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\DoFactory.HeadFirst.Strategy\obj\Debug\DoFactory.HeadFirst.Strategy.pdb
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\Strategy\bin\Debug\Strategy.exe.config
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\Strategy\bin\Debug\Strategy.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\Strategy\bin\Debug\Strategy.pdb
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\Strategy\obj\Debug\Strategy.exe
+G:\[SE401.H11][Nhom28][12520228_12520204_21520487]\Tong hop bao cao\21. Strategy\Demo\Strategy\obj\Debug\Strategy.pdb

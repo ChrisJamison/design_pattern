@@ -1,0 +1,8 @@
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\bin\Debug\Brige.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\bin\Debug\Brige.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\bin\Debug\Brige.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\obj\Debug\Brige.csprojResolveAssemblyReference.cache
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\obj\Debug\Brige.Properties.Resources.resources
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\obj\Debug\Brige.csproj.GenerateResource.Cache
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\obj\Debug\Brige.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\7. Bridge\Demo\Brige\obj\Debug\Brige.pdb

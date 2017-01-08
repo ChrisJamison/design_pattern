@@ -1,0 +1,8 @@
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\bin\Debug\Interpreter.exe.config
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\bin\Debug\Interpreter.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\bin\Debug\Interpreter.pdb
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\obj\Debug\Interpreter.exe
+E:\UIT Courses\K7 HK 9\Desgin Pattern\Báo cáo cuối kỳ\15. Interpreter\Demo\Interpreter\obj\Debug\Interpreter.pdb
